@@ -30,14 +30,15 @@ I'm a **backend engineer and distributed systems enthusiast** from South Africa,
 - **CI/CD Pipeline** — GitHub Actions workflow with automated testing, Docker builds, and Kubernetes deployments
 - **Database Orchestration** — MySQL replication with Flyway migrations for schema management
 - **Development Tooling** — Skaffold for rapid local iteration, autoload.sh for consistent pipeline execution
+- **Testing** - Vitest, PHPUnit, Playwright
 
 **Technical Highlights:**
 ```
 📊 Architecture: Microservices (Node.js, gRPC, REST)
 🐳 Containerization: Docker + Kubernetes + Skaffold
 📨 Messaging: RabbitMQ event streaming
-🗄️ Databases: MySQL replication, Flyway migrations, Prisma
-🔐 Security: JWT authentication & authorization
+🗄️ Databases: MySQL replication, Flyway migrations, Prisma, MongoDB, Reddis(For caching)
+🔐 Security: Hashing algorithms, Key pairs, asymmetric and symmetric signatures and encryption. Auth tokens. Device fingerprinting.
 ⚙️ Automation: GitHub Actions CI/CD + Kubernetes operators
 🚀 Frontend: Next.js + Tailwind CSS
 ```
@@ -57,31 +58,6 @@ I'm a **backend engineer and distributed systems enthusiast** from South Africa,
 - JWT authentication, Argon2 password hashing
 - RabbitMQ event-driven messaging
 - Background job processing & scheduling
-
-### **Databases & Storage**
-- MySQL (replication, orchestration)
-- MongoDB
-- Flyway database migrations
-- ORM's(Prisma)
-
-### **Kubernetes & DevOps**
-- Kubernetes (microservices, operators, health monitoring)
-- Docker & container orchestration
-- Skaffold (local development workflows)
-- GitHub Actions (CI/CD pipelines)
-- Linux system administration
-
-### **Frontend**
-- Next.js & React
-- Tailwind CSS, GSAP animations
-
-### **Languages**
-- JavaScript/TypeScript (primary)
-- Python, PHP, C#, Visual Basic, SQL
-
-### **Testing**
-- Vitest & integration testing frameworks
-- Automated test orchestration
 
 ---
 
