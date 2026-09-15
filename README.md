@@ -36,7 +36,7 @@ I'm a **backend engineer and distributed systems enthusiast** from South Africa,
 📊 Architecture: Microservices (Node.js, gRPC, REST)
 🐳 Containerization: Docker + Kubernetes + Skaffold
 📨 Messaging: RabbitMQ event streaming
-🗄️ Databases: MySQL replication, Flyway migrations
+🗄️ Databases: MySQL replication, Flyway migrations, Prisma
 🔐 Security: JWT authentication & authorization
 ⚙️ Automation: GitHub Actions CI/CD + Kubernetes operators
 🚀 Frontend: Next.js + Tailwind CSS
@@ -47,16 +47,6 @@ I'm a **backend engineer and distributed systems enthusiast** from South Africa,
 - Established strict path conventions and infrastructure-as-code patterns
 - Built automated testing framework with isolated Docker Compose environments
 - Demonstrated expertise in state management, operator compliance, and distributed tracing
-
----
-
-### **[PHPMailFlow](https://github.com/keagilekeamogetswe/PHPMailFlow)**
-*A PHP framework for building and orchestrating HTML email systems*
-
-**Technical Focus:**
-- Backend framework design
-- Email templating and rendering
-- Integration with mail services
 
 ---
 
@@ -72,6 +62,7 @@ I'm a **backend engineer and distributed systems enthusiast** from South Africa,
 - MySQL (replication, orchestration)
 - MongoDB
 - Flyway database migrations
+- ORM's(Prisma)
 
 ### **Kubernetes & DevOps**
 - Kubernetes (microservices, operators, health monitoring)
@@ -94,40 +85,6 @@ I'm a **backend engineer and distributed systems enthusiast** from South Africa,
 
 ---
 
-## 🔬 Core Competencies
-
-### **Distributed Systems Design**
-- Microservices architecture and service communication patterns
-- Event-driven systems with message queues (RabbitMQ)
-- Distributed state management and consistency models
-- Service discovery and load balancing
-
-### **Infrastructure & Orchestration**
-- Kubernetes cluster design and management
-- Container orchestration (Docker, Skaffold)
-- Infrastructure-as-Code and GitOps practices
-- Automated scaling and health monitoring
-
-### **Database Engineering**
-- MySQL replication and high availability
-- Schema migration strategies (Flyway)
-- Query optimization and indexing
-- Transaction management and consistency
-
-### **DevOps & Automation**
-- CI/CD pipeline design and implementation
-- GitHub Actions workflow orchestration
-- Deployment automation and rollback strategies
-- Observability and monitoring
-
-### **Backend Development**
-- REST & gRPC API design
-- Authentication & authorization systems
-- Asynchronous processing and job queues
-- Performance optimization for high-load systems
-
----
-
 ## 🌱 Current Focus
 
 Deep-diving into advanced topics:
@@ -137,16 +94,6 @@ Deep-diving into advanced topics:
 - **High availability** design and failure scenarios
 - **Service discovery** and inter-service communication
 - **Cloud-native** design patterns and best practices
-
----
-
-## 📊 What You'll Find In My Repos
-
-| Repository | Focus | Key Skills |
-|-----------|-------|-----------|
-| **my-CI-CD-pipeline** | Production Kubernetes platform | Microservices, Kubernetes, CI/CD, gRPC, RabbitMQ, MySQL |
-| **PHPMailFlow** | Email framework | Backend architecture, PHP, System design |
-| **Keamogetswe-keagile** | GitHub config | DevOps, tooling, automation |
 
 ---
 
