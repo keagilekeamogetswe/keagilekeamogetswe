@@ -22,7 +22,7 @@
 ---
 
 > 🚀 **Featured Project:** [swift-org](https://github.com/keagilekeamogetswe/swift-org) — a GitHub Actions practice project for automated orchestration, Skaffold, and Kubernetes.
-> 🧠 **Currently Learning:** CI/CD pipelines, Kubernetes workflows, and deployment automation
+> 🧠 **Currently Learning:** Machine Learning (to build personalized recommendation feeds)
 > 🛠️ **Currently Building:** Cloud-native infrastructure and developer tooling
 
 ---
