@@ -1,24 +1,43 @@
-# 👋 Keamogetswe Keagile — Backend Engineer & Systems Architect
-
 <div align="center">
 
-**Building scalable, production-grade distributed systems and cloud-native infrastructure**
+# 👋 Keamogetswe Keagile
+### Backend Engineer • Systems Architect • Cloud-Native Builder
 
-[LinkedIn](https://www.linkedin.com/in/keamogetswe-keagile-902a4b207/) • [Email](mailto:Mrkkeagile@gmail.com) • [GitHub](https://github.com/keagilekeamogetswe)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Keamogetswe%20Keagile&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-Engineer-0f172a?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Engineer" />
+  <img src="https://img.shields.io/badge/Cloud--Native-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cloud Native" />
+  <img src="https://img.shields.io/badge/DevOps-Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white" alt="DevOps" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/keamogetswe-keagile-902a4b207/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Mrkkeagile@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/keagilekeamogetswe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 </div>
 
 ---
 
 > 🚀 **Next Project:** Personalized News Feed  
-> 🧠 **Currently Learning:** Machine Learning (to build personalized recommendation feeds)  
-> 🛠️ **Currently Building:** A social network platform specializing in **Events sharing**
+> 🧠 **Currently Learning:** Machine Learning for recommendation systems  
+> 🛠️ **Currently Building:** A social network platform focused on events sharing
 
 ---
 
-## 🎯 About Me
+## ✨ About Me
 
-I'm a backend engineer based in South Africa specializing in resilient, observable, and scalable distributed systems. I focus on optimizing microservices communication, orchestrating Kubernetes clusters, and building event-driven architectures.
+I'm a backend engineer based in South Africa, focused on building resilient, observable, and scalable distributed systems. I enjoy designing clean APIs, improving infrastructure reliability, and shipping software that performs well in production.
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,typescript,js,python,java,mysql,mongodb,redis,docker,kubernetes,githubactions,rabbitmq,git" alt="Tech stack" />
+</p>
 
 ---
 
@@ -34,12 +53,22 @@ I'm a backend engineer based in South Africa specializing in resilient, observab
 
 ---
 
-## 💻 Tech Stack & Focus
+## 📊 GitHub Stats
 
-- **Languages & Frameworks:** Node.js, Express, Next.js, gRPC, REST
-- **Databases & Caching:** MySQL, MongoDB, Redis, Prisma, Flyway
-- **DevOps & Infrastructure:** Docker, Kubernetes, Skaffold, GitHub Actions, RabbitMQ
-- **Deep Dives:** Machine Learning for content recommendation systems, Kubernetes Operators, and database replication strategies
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keagilekeamogetswe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keagilekeamogetswe&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 🎯 Focus Areas
+
+- Distributed systems and microservices
+- Kubernetes and container orchestration
+- CI/CD automation and platform engineering
+- Databases, caching, and performance tuning
+- Machine learning for recommendation systems
 
 ---
 
@@ -47,3 +76,7 @@ I'm a backend engineer based in South Africa specializing in resilient, observab
 
 - **LinkedIn:** [keamogetswe-keagile-902a4b207](https://www.linkedin.com/in/keamogetswe-keagile-902a4b207/)
 - **Email:** [Mrkkeagile@gmail.com](mailto:Mrkkeagile@gmail.com)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=140&section=footer" alt="footer" />
+</div>
