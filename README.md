@@ -43,7 +43,7 @@ I'm a backend engineer based in South Africa, focused on building resilient, obs
 
 ## 🚀 Featured Projects
 
-### **[my-CI-CD-pipeline](https://github.com/keagilekeamogetswe/my-CI-CD-pipeline)**
+### **[swift-org](https://github.com/keagilekeamogetswe/swift-org)**
 *Kubernetes-native microservices platform with modern DevOps automation.*
 
 - **Architecture:** Node.js, REST APIs, gRPC, RabbitMQ event streaming, Next.js frontend
