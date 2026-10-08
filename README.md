@@ -1,13 +1,13 @@
 <div align="center">
 
 # 👋 Keamogetswe Keagile
-### Backend Engineer • Systems Architect • Cloud-Native Builder
+### Backend Engineer • Platform Engineering • Cloud-Native Automation
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Keamogetswe%20Keagile&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
 
 <p>
   <img src="https://img.shields.io/badge/Backend-Engineer-0f172a?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Engineer" />
-  <img src="https://img.shields.io/badge/Cloud--Native-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cloud Native" />
+  <img src="https://img.shields.io/badge/Platform-Engineering-2563eb?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Platform Engineering" />
   <img src="https://img.shields.io/badge/DevOps-Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white" alt="DevOps" />
 </p>
 
@@ -21,15 +21,15 @@
 
 ---
 
-> 🚀 **Next Project:** Personalized News Feed  
-> 🧠 **Currently Learning:** Machine Learning for recommendation systems  
-> 🛠️ **Currently Building:** A social network platform focused on events sharing
+> 🚀 **Featured Project:** [swift-org](https://github.com/keagilekeamogetswe/swift-org) — a GitHub Actions practice project for automated orchestration, Skaffold, and Kubernetes.
+> 🧠 **Currently Learning:** CI/CD pipelines, Kubernetes workflows, and deployment automation
+> 🛠️ **Currently Building:** Cloud-native infrastructure and developer tooling
 
 ---
 
 ## ✨ About Me
 
-I'm a backend engineer based in South Africa, focused on building resilient, observable, and scalable distributed systems. I enjoy designing clean APIs, improving infrastructure reliability, and shipping software that performs well in production.
+I'm a backend and platform-focused engineer based in South Africa, building resilient, observable, and scalable systems. I enjoy designing clean APIs, improving deployment workflows, and automating infrastructure so teams can ship faster with more confidence.
 
 ---
 
@@ -44,12 +44,14 @@ I'm a backend engineer based in South Africa, focused on building resilient, obs
 ## 🚀 Featured Projects
 
 ### **[swift-org](https://github.com/keagilekeamogetswe/swift-org)**
-*Kubernetes-native microservices platform with modern DevOps automation.*
+*GitHub Actions practice project focused on Kubernetes-native orchestration and automation.*
 
-- **Architecture:** Node.js, REST APIs, gRPC, RabbitMQ event streaming, Next.js frontend
-- **Infrastructure & CI/CD:** Kubernetes, Skaffold, Docker Compose, GitHub Actions pipeline
-- **Data & Security:** MySQL replication, Flyway, Redis, MongoDB, Argon2, JWT, asymmetric encryption
-- **Testing:** Vitest, PHPUnit, Playwright
+- **Core stack:** JavaScript, TypeScript, Shell, Python, Dockerfiles
+- **Frontend:** Next.js app for the website/UI layer
+- **Automation:** GitHub Actions workflows for build, test, and deployment pipelines
+- **Infrastructure:** Skaffold, Docker Compose, Kubernetes, and k3d-based local cluster workflows
+- **Testing:** Playwright, Vitest, and integration testing across containerized services
+- **Ops patterns:** Manifest generation, environment preparation scripts, and deployment logging
 
 ---
 
@@ -64,11 +66,11 @@ I'm a backend engineer based in South Africa, focused on building resilient, obs
 
 ## 🎯 Focus Areas
 
-- Distributed systems and microservices
+- GitHub Actions and CI/CD automation
 - Kubernetes and container orchestration
-- CI/CD automation and platform engineering
-- Databases, caching, and performance tuning
-- Machine learning for recommendation systems
+- Platform engineering and deployment workflows
+- Backend systems and API design
+- Testing, reliability, and developer experience
 
 ---
 
